@@ -4,3 +4,12 @@
 ## 2021
 _Clase BigData_
 *Día domingo*
+
+Una lista
+
+<ol>
+  <li>Catatina</li>
+  <li>Nicolas</li>
+  <li>Carolina</li>
+  <li>Camilo</li>
+  
